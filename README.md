@@ -58,7 +58,4 @@ The dataset contains details of Netflix content such as:
 - Converted unstructured fields into structured tables
 - Answered 5 business questions with SQL analysis
 
----
-
-## 📂 Folder Structure
 
